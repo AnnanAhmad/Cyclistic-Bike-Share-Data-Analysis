@@ -12,9 +12,10 @@ The dataset is publicly available through [Divvy/Cyclistic Trip Data](https://di
 - Each month was provided as a CSV file.  
 
 Due to size limits, the full raw dataset is not uploaded here. Instead, this repository includes:  
-- A cleaned dataset (Excel file).  
-- The Tableau workbook used for analysis.  
-- Screenshots of dashboards.  
+- [Cleaned Excel Dataset](YOUR_CLOUD_DRIVE_LINK_HERE) (will update soon)
+- [TABALEU BOOK](https://public.tableau.com/views/Cyclistic_Analysis_17565662589740/StartTimeComparison?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+- Screenshots of dashboards stored in this repo.
+- A complete Presentation pdf File.
 
 ---
 
@@ -34,9 +35,8 @@ Due to size limits, the full raw dataset is not uploaded here. Instead, this rep
 ---
 
 ## Visualizations  
-This repository includes:  
-- `tableau/Cyclistic_Analysis.twbx` → Tableau workbook file.  
-- `tableau/` folder with screenshots of dashboards.  
+You can find **screenshots of dashboards** in this repository.  
+You can find **Powerpoint Presentation pdf** in this repository.  
 
 ---
 
@@ -58,5 +58,4 @@ Cyclistic can increase annual memberships by adjusting pricing and benefits:
 
 ## Author  
 **Annan Ahmad**  
-- [LinkedIn](https://www.linkedin.com/in/annan-ahmad)  
-
+- [LinkedIn](https://www.linkedin.com/in/annan-ahmad/)  
