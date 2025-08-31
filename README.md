@@ -11,8 +11,7 @@ The dataset is publicly available through [Divvy/Cyclistic Trip Data](https://di
 - Data covers 12 months (one year).  
 - Each month was provided as a CSV file.  
 
-Due to size limits, the full raw dataset is not uploaded here. Instead, this repository includes:  
-- [Cleaned Excel Dataset](YOUR_CLOUD_DRIVE_LINK_HERE) (will update soon)
+Due to size limits, the full raw dataset is not uploaded here. Instead, this repository includes:
 - [TABALEU BOOK](https://public.tableau.com/views/Cyclistic_Analysis_17565662589740/StartTimeComparison?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 - Screenshots of dashboards stored in this repo.
 - A complete Presentation pdf File.
